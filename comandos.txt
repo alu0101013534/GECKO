@@ -1,0 +1,5 @@
+apt -get install apache2
+
+apt-get install mysql-server
+
+mysql_secure_installation
