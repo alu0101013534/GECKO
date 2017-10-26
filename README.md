@@ -2,11 +2,19 @@
 
 ## Objetivo del Proyecto:
 
-Creación de una página web para compras online de una empresa
+* Nuestro proyecto se basa en una plataforma de gestión de inmuebles.
 
 ## Tecnologas a usar:
 
-1) Apache
-2) MySQL
-3) Bootstrap
-4) AngularJS
+* HTML
+* CSS
+* JavaScript
+* Php
+* MySql
+
+## Miembros del equipo de desarrollo:
+
+* Johan Plasencia
+* Rossiel
+*
+* Airán Villacorta
