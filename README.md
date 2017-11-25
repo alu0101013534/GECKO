@@ -15,6 +15,4 @@
 ## Miembros del equipo de desarrollo:
 
 * Johan Plasencia
-* Rossiel Dinosca González Ramírez
-* Nitesh Gul Ramnani
 * Airán Villacorta
